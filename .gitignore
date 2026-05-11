@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Keep graph artifacts
+!.gitignore
+!obsidian-vault/
+!obsidian-vault/**
+!GRAPH_REPORT.md
+!graph.json
+!concept_list.txt

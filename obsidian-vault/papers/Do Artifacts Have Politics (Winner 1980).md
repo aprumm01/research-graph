@@ -1,0 +1,56 @@
+---
+source_file: "research_docs/P31.pdf"
+type: ""
+community: "Responsible AI and Ethics"
+tags:
+  - community/Responsible_AI_and_Ethics
+
+doi: "10.4324/9781315259697-21"
+
+abstract: "In controversies about technology and society, there is no idea more pro vocative than the notion that technical things have political qualities. At issue is the claim that the machines, structures, and systems of modern material culture can be accurately judged not only for their contributions of efficiency and pro ductivity, not merely for their positive and negative environmental side effects, but also for the ways in which they can embody specific forms of power and authority. Since ideas of"
+authors: "Langdon Winner"
+year: 1980
+venue: "Daedalus, 109(1)"
+---
+
+# Do Artifacts Have Politics? (Winner 1980)
+
+
+## Abstract
+
+**DOI:** [10.4324/9781315259697-21](https://doi.org/10.4324/9781315259697-21)
+In controversies about technology and society, there is no idea more pro vocative than the notion that technical things have political qualities. At issue is the claim that the machines, structures, and systems of modern material culture can be accurately judged not only for their contributions of efficiency and pro ductivity, not merely for their positive and negative environmental side effects, but also for the ways in which they can embody specific forms of power and authority. Since ideas of this kind have a persistent and troubling presence in discussions about the meaning of technology, they deserve explicit attention.1 Writing in Technology and Culture almost two decades ago, Lewis Mumford gave classic statement to one version of the theme, arguing that "from late neo lithic times in the Near East, right down to our own day, two technologies have recurrently existed side by side: one authoritarian, the other democratic, the first system-centered, immensely powerful, but inherently unstable, the other man-centered, relatively weak, but resourceful and durable."2 This thesis stands at the heart of Mumford's studies of the city, architecture, and the his tory of technics, and mirrors concerns voiced earlier in the works of Peter Kropotkin, William Morris, and other nineteenth century critics of industrial ism. More recently, antinuclear and prosolar energy movements in Europe and America have adopted a similar notion as a centerpiece in their arguments. Thus environmentalist Denis Hayes concludes, "The increased deployment of nuclear power facilities must lead society toward authoritarianism. Indeed, safe reliance upon nuclear power as the principal source of energy may be possible only in a totalitarian state." Echoing the views of many proponents of appropri ate technology and the soft energy path, Hayes contends that "dispersed solar sources are more compatible than centralized technologies with social equity, freedom and cultural pluralism."3 An eagerness to interpret technical artifacts in political language is by no means the exclusive property of critics of large-scale high-technology systems. A long lineage of boosters have insisted that the "biggest and best" that science and industry made available were the best guarantees of democracy, freedom, and social justice. The factory system, automobile, telephone, radio, television, the space program, and of course nuclear power itself have all at one time or another been described as democratizing, liberating forces. David Lilienthal, in T.V.A.: Democracy on the March, for example, found this promise in the phos 121
+
+## Summary
+Winner's landmark 1980 essay argues that technical artifacts — bridges, buildings, machines, systems — can embody and enact specific political properties, not merely reflect the social or economic systems around them. He distinguishes two ways artifacts have politics: (1) as a consequence of deliberate design choices that favor certain social arrangements (e.g., Robert Moses's low-clearance Long Island bridges, allegedly designed to exclude buses and thereby Black beachgoers); and (2) through inherent politics — some technologies are so complex or centralized that they require particular social structures to function (e.g., nuclear power requiring centralized authority). Winner argues this matters for democratic accountability over technological choice.
+
+## Key Concepts
+- Political properties of artifacts
+- Deliberate design encoding power relations
+- Inherent politics of technology
+- Social determination of technology (critique)
+- Technological politics and democratic accountability
+
+## Theoretical Framework
+Engages with the social determination of technology thesis (technologies are neutral; social context shapes impact) and rejects it as insufficient; draws on political philosophy, historical case studies, and STS to argue for the political ontology of artifacts.
+
+## Methods
+Conceptual/theoretical essay with historical case analysis; uses specific cases (Long Island bridges, nuclear power, mechanical tomato harvester) to illustrate the two types of politics.
+
+## Main Arguments
+- Saying "what matters is not the technology but the social system" is insufficient — design choices build political arrangements into physical form, making those arrangements resistant to change
+- Deliberate politics: designers and deployers sometimes consciously encode social biases or power preferences into artifact design
+- Inherent politics: certain technological systems have structural requirements (scale, centralization, expertise, discipline) that make some social arrangements necessary and others impossible
+- Democratic societies must engage more critically with how technical decisions pre-empt political ones
+
+## Limitations
+- The Moses bridge case has been contested historically (evidence for intentional racial exclusion is circumstantial)
+- Distinction between deliberate and inherent politics can be difficult to apply empirically; most real cases are mixed
+
+## Connections
+Foundational for [[Automate Infomate Two Faces of Intelligent Technology (Zuboff 1985)]] on technology and power; relates to [[AI Failure Loops in Devalued Work (Kawakami et al.)]] on systemic bias in AI design; connects to [[Co-Producing AI Augmented Participatory Lifecycle (Mushkani et al. UdeM)]] on distributed authority in AI governance.
+
+## Connections
+- [[Responsible AI and Ethics]] - `` 
+
+

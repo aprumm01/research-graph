@@ -1,0 +1,35 @@
+T1 | GenAI in UX and Design Practice | Research on how generative AI tools are adopted, used, and impact professional U
+T2 | AI in Design Education | Integrating AI tools into design, UX, HCI, and creative education curricula and 
+T3 | Instructional Design Theory | Foundational theories and models of instructional design including ADDIE, learni
+T4 | AI and Future of Work | AI impacts on employment, job displacement, workforce transformation, organizati
+T5 | HCI Education and Pedagogy | Teaching HCI, design judgment, studio pedagogy, more-than-human perspectives
+T6 | Responsible AI and Ethics | Value-sensitive design, AI governance, algorithmic fairness, sociotechnical gaps
+T7 | Design Theory and Cognition | Designerly ways of knowing, prototyping, design judgment, wicked problems, desig
+T8 | Human Performance Technology | HPT models, performance improvement, training evaluation, organizational learnin
+T9 | Workplace Learning and AI | How AI transforms workplace learning, sensemaking, activity theory in organizati
+C1 | Design Judgment | Instrumental, appreciative, and quality judgments designers make; agency-distrib
+C2 | AI Literacy | Ability to understand, use, evaluate, and critically engage with AI systems acro
+C3 | Human-AI Creative Collaboration | Partnerships between humans and generative AI in creative, design, and knowledge
+C4 | Cognitive Offloading and De-skilling | Risk that AI tool use leads to skill atrophy, over-reliance, and misplaced respo
+C5 | Job Displacement and Reskilling | AI-induced job loss and the need for workforce upskilling and reskilling initiat
+C6 | Studio Pedagogy | Design studio teaching mode emphasizing critique, iteration, project work, profe
+C7 | Generative UI Tools | AI systems that generate high-fidelity UI mockups, prototypes, and code from tex
+C8 | Value-Sensitive Design | Design methodology proactively integrating human values into technical design pr
+C9 | Hybrid Intelligence | Combining human and AI capabilities to tackle complex problems beyond either alo
+C10 | AI Failure Loops | Sociotechnical failure modes where AI deployment in devalued labor contexts perp
+C11 | Constructivism | Learning theory that knowledge is actively constructed through experience; basis
+C12 | ADDIE Model | Analyze-Design-Develop-Implement-Evaluate: foundational instructional design pro
+C13 | Design Thinking | Human-centered problem-solving emphasizing empathy, ideation, prototyping; integ
+C14 | Metacognitive Support | AI agents scaffolding designers self-monitoring, intent formulation, reflection,
+C15 | Responsible AI Governance | Organizational maturity frameworks for ethical AI development, RAI-OM dimensions
+C16 | Activity Theory | Theoretical framework analyzing human activities as mediated by tools, community
+C17 | Cognitive Load Theory | Limits of working memory applied to instructional design; multimedia learning pr
+C18 | Designerly Ways of Knowing | Cross (1982): design as third area of human knowledge alongside science and huma
+C19 | Prompt Engineering | Crafting effective inputs to generative AI; prompts as cognitive interfaces medi
+C20 | Creative Ambiguity | Dalsgaard: AI output misalignments as generative creative forces; reframing fric
+C21 | Vibe Coding | Expressing design intent in natural language for AI translation into functional 
+C22 | Feminized Labor and AI | Systemic devaluation of workers in feminized occupations (teaching, social work,
+C23 | Sensemaking and AI Adoption | How organizational members make sense of AI integration and how it shapes workpl
+C24 | Kirkpatrick Evaluation Model | Four-level training evaluation: reaction, learning, behavior, results; extension
+C25 | Problem-Based Learning | Instructional strategy using real-world problems as learning context; contrast w
+C26 | Algorithmic Bias and Fairness | Disproportionate AI impacts on marginalized groups; bias-mitigating approaches i

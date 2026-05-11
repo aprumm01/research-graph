@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "1f45e0f42f91d8cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd68332d2bafeaca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "356e4ef18d39827b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_COMMUNITY_AI and Future of Work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_COMMUNITY_AI and Future of Work"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d3fdb9af4443b26",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dc9d1e6d51b4357",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f4a1f30f242d4d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f962428a770616e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "85694403efe19425",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de1ca318d6e3a31c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d32d55a0c32bf8e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d249b8314bc9afe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a88696a669924031",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "952c0f19e1563349",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "013c077fd3105755",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "100ed326360f01f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "356e4ef18d39827b",
+  "lastOpenFiles": [
+    "User Experience Design Professionals' Perceptions of Generative Artificial Intelligence_1.md",
+    "The Future of Work Balancing Automation and Human_1.md",
+    "Scaffolding and Achievement in Problem-Based and Inquiry Learning (Hmelo-Silver et al.)_1.md",
+    "Program Evaluation Concepts and Practices (Fitzpatrick, Sanders & Worthen)_1.md",
+    "Principles of Instructional Design (GagnÃ©, Briggs & Wager)_1.md",
+    "Full Terms & Conditions of access and use can be found at httpwww.tandfonl....md",
+    "From Code to Collaboration AI Adoption and Workforce Transformation_1.md",
+    "Embedding Cooperative Learning into the_1.md",
+    "Design Research Society Research Perspectives (Durrant et al.)_1.md",
+    "Contemporary Educational Technology, 2025, 17(3), ep583_1.md",
+    "Beyond the hype evidence-based_1.md",
+    "A Comparative Analysis_1.md",
+    "_COMMUNITY_Making the Right Thing HCI and Responsible AI (Jung et al. CMU).md",
+    "Phenomenography.md",
+    "Formative Usability Study.md",
+    "Narrative Review.md",
+    "Diary Study.md",
+    "Bibliometric Analysis.md",
+    "Job Characteristics Theory.md",
+    "Posthumanism.md",
+    "Cybernetics.md",
+    "Cooperative Learning Theory.md",
+    "Ironies of Automation.md",
+    "Technology Acceptance Model.md",
+    "User-Centered Design.md",
+    "1 Lilla Vicsek Artificial intelligence and the future of work – Lessons from ....md"
+  ]
+}

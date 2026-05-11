@@ -8,3 +8,5 @@
 !GRAPH_REPORT.md
 !graph.json
 !concept_list.txt
+!notes-index.json
+!build_notes_index.py

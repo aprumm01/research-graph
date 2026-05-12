@@ -1,10 +1,11 @@
 ---
-
 source_file: "research_docs/P90.pdf"
-type: paper
+type: ""
 community: "Studio Pedagogy"
 tags:
-year: "2024"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Studio_Pedagogy
 ---
 
 # AI in Test Automation: Overcoming Challenges, Embracing Imperatives
@@ -12,3 +13,5 @@ year: "2024"
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

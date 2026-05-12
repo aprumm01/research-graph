@@ -1,17 +1,16 @@
 ---
-source_file: ""
-type: author
-community: "AI and Future of Work"
+source_file: "research_docs/AU471.pdf"
+type: ""
+community: "Community None"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_None
 ---
 
 # Dzreke
 
-## Overview
-Simon Suwanzy Dzreke is a researcher at the Federal Aviation Administration whose critical discourse analysis examines how tech CEO predictions about AI and the labor market perform and construct futures rather than merely predict them. His work analyzes how executive discourse frames AI transformation as beneficial for innovation while systematically distributing disruption onto workers.
+## Connections
+- [[Visions of the Future A Critical Discourse Analysis of Tech CEO Predictions on AI and the Labor Market (Dzreke et al., 2025)]] - `` [EXTRACTED]
 
-## Papers in This Corpus
-- [[Visions of the Future (Dzreke et al., 2025)]]
-
-## Research Area
-- [[Sociotechnical Imaginaries]]
+#graphify/document #graphify/EXTRACTED #community/Community_None

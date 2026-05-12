@@ -1,12 +1,11 @@
 ---
-
 source_file: "research_docs/P264.pdf"
-type: paper
-community: "Metacognitive Support"
+type: ""
+community: "AI Literacy"
 tags:
-  - HumanFactors
-venue: "Human Factors"
-year: "2025"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_Literacy
 ---
 
 # Enhancing Inquiry-Based Learning in Human Factors Engineering with Generative AI
@@ -15,3 +14,5 @@ year: "2025"
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Problem-Based Learning]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy

@@ -1,12 +1,11 @@
 ---
-
 source_file: "research_docs/P270.pdf"
-type: paper
+type: ""
 community: "AI in Design Education"
 tags:
-  - book-chapter
-venue: "MIT Press / Book"
-year: "2012"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
 ---
 
 # Foundational and Instrumental Design Theory (Stolterman & Nelson)
@@ -14,3 +13,5 @@ year: "2012"
 ## Connections
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

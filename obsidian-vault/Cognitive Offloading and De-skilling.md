@@ -1,8 +1,11 @@
 ---
 source_file: ""
-type: paper
-community: "GenAI in UX and Design Practice"
+type: ""
+community: "Workplace Learning and AI"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Workplace_Learning_and_AI
 ---
 
 # Cognitive Offloading and De-skilling
@@ -10,3 +13,5 @@ tags:
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI

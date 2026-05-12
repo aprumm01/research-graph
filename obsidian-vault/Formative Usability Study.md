@@ -1,15 +1,13 @@
 ---
 source_file: ""
-type: method
-community: "Metacognitive Support"
+type: ""
+community: "Generative UI Tools"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Generative_UI_Tools
 ---
 
 # Formative Usability Study
 
-## Overview
-Formative usability studies use structured user testing — think-aloud observation, heuristic evaluation, cognitive walkthroughs — to identify design problems early, before deployment. In AI/ML systems, formative studies surface mismatches between model behavior and user mental models.
-
-## Key Thinkers
-- Jakob Nielsen
-- Rolf Molich
+#graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools

@@ -1,0 +1,17 @@
+---
+source_file: "research_docs/P271.pdf"
+type: ""
+community: "Human Performance Technology"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Human_Performance_Technology
+---
+
+# From Code to Collaboration: AI Adoption and Workforce Transformation
+
+## Connections
+- [[Human Performance Technology]] - `` [EXTRACTED]
+- [[Human Performance Technology_1]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology

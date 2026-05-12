@@ -1,10 +1,11 @@
 ---
-
 source_file: "research_docs/P141.pdf"
-type: paper
-community: "Survey / Questionnaire Study"
+type: ""
+community: "Instructional Design Theory"
 tags:
-year: "2014"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Instructional_Design_Theory
 ---
 
 # A Model in Instructional Design: Dick, Carey and Carey (Turkish)
@@ -15,3 +16,5 @@ year: "2014"
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Reflective Practice]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

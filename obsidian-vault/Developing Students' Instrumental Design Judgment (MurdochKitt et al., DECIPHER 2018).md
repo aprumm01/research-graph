@@ -1,12 +1,11 @@
 ---
-
 source_file: "research_docs/P260.pdf"
-type: paper
+type: ""
 community: "AI in Design Education"
 tags:
-  - DECIPHER
-venue: "DECIPHER 2018"
-year: "2018"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
 ---
 
 # Developing Students' Instrumental Design Judgment (MurdochKitt et al., DECIPHER 2018)
@@ -16,3 +15,5 @@ year: "2018"
 - [[Design Judgment]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Murdoch-Kitt]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

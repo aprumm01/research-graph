@@ -1,14 +1,14 @@
 {
   "colorGroups": [
     {
-      "query": "tag:#community/GenAI_in_UX_and_Design_Practice",
+      "query": "tag:#community/AI_and_Future_of_Work",
       "color": {
         "a": 1,
         "rgb": 5142951
       }
     },
     {
-      "query": "tag:#community/AI_and_Future_of_Work",
+      "query": "tag:#community/GenAI_in_UX_and_Design_Practice",
       "color": {
         "a": 1,
         "rgb": 15896107
@@ -29,31 +29,73 @@
       }
     },
     {
-      "query": "tag:#community/Survey_/_Questionnaire_Study",
+      "query": "tag:#community/Quantitative_/_Statistical_Analysis",
       "color": {
         "a": 1,
         "rgb": 5873999
       }
     },
     {
-      "query": "tag:#community/Studio_Pedagogy",
+      "query": "tag:#community/Workplace_Learning_and_AI",
       "color": {
         "a": 1,
         "rgb": 15583560
       }
     },
     {
-      "query": "tag:#community/Metacognitive_Support",
+      "query": "tag:#community/Semi-Structured_Interviews",
       "color": {
         "a": 1,
         "rgb": 11565729
       }
     },
     {
-      "query": "tag:#community/Semi-Structured_Interviews",
+      "query": "tag:#community/Human_Performance_Technology",
       "color": {
         "a": 1,
         "rgb": 16752039
+      }
+    },
+    {
+      "query": "tag:#community/AI_Literacy",
+      "color": {
+        "a": 1,
+        "rgb": 10253663
+      }
+    },
+    {
+      "query": "tag:#community/Studio_Pedagogy",
+      "color": {
+        "a": 1,
+        "rgb": 12234924
+      }
+    },
+    {
+      "query": "tag:#community/Generative_UI_Tools",
+      "color": {
+        "a": 1,
+        "rgb": 5142951
+      }
+    },
+    {
+      "query": "tag:#community/AI_Industry_Expectations_and_Underperforming_Imaginaries_(Stanusch_et_al.,_2024)",
+      "color": {
+        "a": 1,
+        "rgb": 15896107
+      }
+    },
+    {
+      "query": "tag:#community/Hautala",
+      "color": {
+        "a": 1,
+        "rgb": 14767961
+      }
+    },
+    {
+      "query": "tag:#community/Changing_Design_Education_for_the_21st_Century_(Meyer_&_Norman,_2020)",
+      "color": {
+        "a": 1,
+        "rgb": 7780274
       }
     }
   ]

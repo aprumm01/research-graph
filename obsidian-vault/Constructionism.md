@@ -1,18 +1,13 @@
 ---
 source_file: ""
-type: framework
-community: "Survey / Questionnaire Study"
+type: ""
+community: "Quantitative / Statistical Analysis"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Quantitative_/_Statistical_Analysis
 ---
 
 # Constructionism
 
-## Overview
-Constructionism extends constructivism by arguing that learning is most effective when learners are actively making shareable artifacts — objects in the world that others can examine and critique. Central to maker education, coding pedagogy, and project-based learning.
-
-## Key Thinkers
-- Seymour Papert
-- Mitchel Resnick
-
-## Papers in This Corpus
-- [[The Intertwined Histories of Artificial Intelligence (Int'l J. of AI, 2022)]]
+#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis

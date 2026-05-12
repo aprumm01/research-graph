@@ -1,17 +1,16 @@
 ---
-source_file: ""
-type: author
-community: "AI in Design Education"
+source_file: "research_docs/AU472.pdf"
+type: ""
+community: "Community None"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_None
 ---
 
 # Hashem
 
-## Overview
-Ola Ali Hashem is a design educator at MSA University in Cairo whose work examines AI-integrated design education methodology. Her research develops and evaluates structured approaches to embedding AI tools in design process instruction that preserve the iterative, critical character of design education while leveraging AI's generative capabilities.
+## Connections
+- [[Design Education Methodology Using AI (Hashem & Hakeem, 2024)]] - `` [EXTRACTED]
 
-## Papers in This Corpus
-- [[Design Education Methodology Using AI (Hashem & Hakeem, 2024)]]
-
-## Research Area
-- [[AI in Design Education]]
+#graphify/document #graphify/EXTRACTED #community/Community_None

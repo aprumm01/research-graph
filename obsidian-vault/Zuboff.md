@@ -1,8 +1,13 @@
 ---
-source_file: "research_docs/AU397.pdf"
-type: author
-community: "AI and Future of Work"
+source_file: "research_docs/AU447.pdf"
+type: ""
+community: "Workplace Learning and AI"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Workplace_Learning_and_AI
 ---
 
 # Zuboff
+
+#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI

@@ -1,10 +1,11 @@
 ---
-
 source_file: "research_docs/P113.pdf"
-type: paper
-community: "GenAI in UX and Design Practice"
+type: ""
+community: "Semi-Structured Interviews"
 tags:
-year: "2024"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Semi-Structured_Interviews
 ---
 
 # Optimizing Employee Roles in the Era of Generative AI
@@ -13,3 +14,5 @@ year: "2024"
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

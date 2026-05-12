@@ -1,12 +1,11 @@
 ---
-
 source_file: "research_docs/P119.pdf"
-type: paper
-community: "Metacognitive Support"
+type: ""
+community: "AI Literacy"
 tags:
-  - EducationalPsychologist
-venue: "Educational Psychologist"
-year: "2007"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_Literacy
 ---
 
 # Scaffolding and Achievement in Problem-Based and Inquiry Learning (Hmelo-Silver et al.)
@@ -14,3 +13,5 @@ year: "2007"
 ## Connections
 - [[Metacognitive Support]] - `` [EXTRACTED]
 - [[Problem-Based Learning]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy

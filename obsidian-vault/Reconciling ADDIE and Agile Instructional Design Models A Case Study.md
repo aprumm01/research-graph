@@ -1,12 +1,11 @@
 ---
-
 source_file: "research_docs/P188.pdf"
-type: paper
+type: ""
 community: "Instructional Design Theory"
 tags:
-  - TechTrends
-venue: "TechTrends"
-year: "2013"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Instructional_Design_Theory
 ---
 
 # Reconciling ADDIE and Agile Instructional Design Models: A Case Study
@@ -14,3 +13,5 @@ year: "2013"
 ## Connections
 - [[ADDIE Model]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

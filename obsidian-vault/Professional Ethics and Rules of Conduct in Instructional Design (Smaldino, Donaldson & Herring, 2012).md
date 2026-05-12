@@ -1,12 +1,11 @@
 ---
-
 source_file: "research_docs/P220.pdf"
-type: paper
-community: "Instructional Design Theory"
+type: ""
+community: "GenAI in UX and Design Practice"
 tags:
-  - book-chapter
-venue: "Book Chapter"
-year: "2012"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Professional Ethics and Rules of Conduct in Instructional Design (Smaldino, Donaldson & Herring, 2012)
@@ -16,3 +15,5 @@ year: "2012"
 - [[Herring]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Smaldino]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

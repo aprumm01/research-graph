@@ -1,15 +1,16 @@
 ---
-
 source_file: "research_docs/P155.pdf"
-type: paper
+type: ""
 community: "GenAI in UX and Design Practice"
 tags:
-  - HBR
-venue: "Harvard Business Review"
-year: "2024"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Why New Technologies Do Not Transform Incumbents (Choudary, HBR)
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

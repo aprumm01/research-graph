@@ -1,10 +1,11 @@
 ---
-
 source_file: "research_docs/P210.pdf"
-type: paper
+type: ""
 community: "AI in Design Education"
 tags:
-year: "2024"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
 ---
 
 # Constrained Design Space Explorations Utilizing Generative AI
@@ -12,3 +13,5 @@ year: "2024"
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

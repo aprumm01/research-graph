@@ -1,14 +1,14 @@
 ---
 source_file: "research_docs/P318.pdf"
-type: paper
+type: ""
 community: "AI and Future of Work"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_and_Future_of_Work
 ---
 
 # Methodology, Legend, and Rhetoric: The Constructions of AI by Academia and Industry (Eynon & Young, 2020)
-
-## Summary
-Uses Social Construction of Technology (SCOT) theory to analyze how academic researchers, commercial sector actors, and policymakers construct AI differently in the context of lifelong learning, drawing on 34 in-depth interviews and document analysis. Finds three distinct technological frames and argues that commercial sector practices currently wield the most power in shaping AI-for-learning design.
 
 ## Connections
 - [[Eynon]] - `` [EXTRACTED]
@@ -19,3 +19,5 @@ Uses Social Construction of Technology (SCOT) theory to analyze how academic res
 - [[Sociotechnical Imaginaries]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
 - [[Young]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

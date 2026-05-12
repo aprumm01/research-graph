@@ -1,17 +1,16 @@
 ---
-source_file: ""
-type: author
-community: "AI and Future of Work"
+source_file: "research_docs/AU468.pdf"
+type: ""
+community: "Hautala"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Hautala
 ---
 
 # Heino
 
-## Overview
-Hanna Heino is a researcher at the Finland Futures Research Centre (University of Turku) studying AI futures imaginaries held by technology practitioners. Her empirical work with Johanna Hautala maps the spectrum of practitioner visions and documents 'unimagined speed' in AI development — the consistent phenomenon that actual AI progress outpaces even optimistic forecasts.
+## Connections
+- [[Spectrum of AI Futures Imaginaries by AI Practitioners in Finland and Singapore (Hautala & Heino, 2023)]] - `` [EXTRACTED]
 
-## Papers in This Corpus
-- [[Spectrum of AI Futures Imaginaries by AI Practitioners in Finland and Singapore (Hautala & Heino, 2023)]]
-
-## Research Area
-- [[Sociotechnical Imaginaries]]
+#graphify/document #graphify/EXTRACTED #community/Hautala

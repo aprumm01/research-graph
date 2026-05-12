@@ -1,17 +1,16 @@
 ---
-source_file: ""
-type: author
-community: "Responsible AI and Ethics"
+source_file: "research_docs/AU464.pdf"
+type: ""
+community: "Community None"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_None
 ---
 
 # Karizat
 
-## Overview
-Nadia Karizat is a researcher at the University of Michigan whose work uses the lens of sociotechnical imaginaries to examine emerging AI systems in high-stakes domains, particularly emotion AI and mental health technology. Her CSCW research develops prospective ethical methods for analyzing AI systems before deployment, using patent applications as windows into imagined futures.
+## Connections
+- [[Patent Applications as Glimpses into the Sociotechnical Imaginary (Karizat et al., 2024)]] - `` [EXTRACTED]
 
-## Papers in This Corpus
-- [[Patent Applications as Glimpses into the Sociotechnical Imaginary (Karizat et al., 2024)]]
-
-## Research Area
-- [[Sociotechnical Imaginaries]]
+#graphify/document #graphify/EXTRACTED #community/Community_None

@@ -1,12 +1,11 @@
 ---
-
 source_file: "research_docs/P255.pdf"
-type: paper
+type: ""
 community: "Instructional Design Theory"
 tags:
-  - book-chapter
-venue: "Lawrence Erlbaum Associates"
-year: "2008"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Instructional_Design_Theory
 ---
 
 # Educational Technology: AECT Definition and Terminology (Januszewski & Molenda, 2008)
@@ -15,3 +14,5 @@ year: "2008"
 - [[Constructivism]] - `` [EXTRACTED]
 - [[Januszewski]] - `` [EXTRACTED]
 - [[Molenda]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

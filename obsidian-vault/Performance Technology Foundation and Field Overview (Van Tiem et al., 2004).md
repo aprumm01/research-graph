@@ -1,12 +1,11 @@
 ---
-
 source_file: "research_docs/P139.pdf"
-type: paper
+type: ""
 community: "GenAI in UX and Design Practice"
 tags:
-  - PIQ
-venue: "Performance Improvement Quarterly"
-year: "2004"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Performance Technology: Foundation and Field Overview (Van Tiem et al., 2004)
@@ -14,3 +13,5 @@ year: "2004"
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Van Tiem]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

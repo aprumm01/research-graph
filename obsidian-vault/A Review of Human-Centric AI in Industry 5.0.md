@@ -1,15 +1,16 @@
 ---
-
 source_file: "research_docs/P171.pdf"
-type: paper
+type: ""
 community: "AI and Future of Work"
 tags:
-  - Frontiers
-venue: "Frontiers in Artificial Intelligence"
-year: "2024"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_and_Future_of_Work
 ---
 
 # A Review of Human-Centric AI in Industry 5.0
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

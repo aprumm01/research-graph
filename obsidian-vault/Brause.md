@@ -1,18 +1,17 @@
 ---
-source_file: ""
-type: author
-community: "AI and Future of Work"
+source_file: "research_docs/AU454.pdf"
+type: ""
+community: "AI Industry Expectations and Underperforming Imaginaries (Stanusch et al., 2024)"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_Industry_Expectations_and_Underperforming_Imaginaries_(Stanusch_et_al.,_2024)
 ---
 
 # Brause
 
-## Overview
-Saba Rebecca Brause is a communication researcher at the University of Zurich whose work examines news media imaginaries of AI, with a focus on how journalistic discourse constructs and circulates sociotechnical visions of AI in healthcare and other high-stakes domains. Her comparative cross-national research examines how national media contexts shape distinct AI imaginary landscapes.
+## Connections
+- [[AI Industry Expectations and Underperforming Imaginaries (Stanusch et al., 2024)]] - `` [EXTRACTED]
+- [[News Media Imaginaries of Artificial Intelligence in Healthcare (Brause et al., 2024)]] - `` [EXTRACTED]
 
-## Papers in This Corpus
-- [[AI Industry Expectations and Underperforming Imaginaries (Stanusch et al., 2024)]]
-- [[News Media Imaginaries of Artificial Intelligence in Healthcare (Brause et al., 2024)]]
-
-## Research Area
-- [[Sociotechnical Imaginaries]]
+#graphify/document #graphify/EXTRACTED #community/AI_Industry_Expectations_and_Underperforming_Imaginaries_(Stanusch_et_al.,_2024)

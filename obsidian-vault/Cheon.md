@@ -1,17 +1,16 @@
 ---
-source_file: ""
-type: author
-community: "AI and Future of Work"
+source_file: "research_docs/AU466.pdf"
+type: ""
+community: "Community None"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_None
 ---
 
 # Cheon
 
-## Overview
-Eunjeong Cheon is a researcher at the School of Information Studies at Syracuse University whose work uses patent analysis to study sociotechnical imaginaries embedded in corporate technology development. Her CSCW research on Amazon's fulfillment center patents examines how major tech companies configure the future of human labor within automated systems through intellectual property.
+## Connections
+- [[Powerful Futures How a Big Tech Company Envisions Humans and Technologies in the Workplace of the Future (Cheon, 2023)]] - `` [EXTRACTED]
 
-## Papers in This Corpus
-- [[Powerful Futures (Cheon, 2023)]]
-
-## Research Area
-- [[Sociotechnical Imaginaries]]
+#graphify/document #graphify/EXTRACTED #community/Community_None

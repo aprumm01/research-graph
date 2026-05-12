@@ -1,18 +1,17 @@
 ---
-source_file: ""
-type: author
-community: "AI and Future of Work"
+source_file: "research_docs/AU453.pdf"
+type: ""
+community: "AI Industry Expectations and Underperforming Imaginaries (Stanusch et al., 2024)"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_Industry_Expectations_and_Underperforming_Imaginaries_(Stanusch_et_al.,_2024)
 ---
 
 # Richter
 
-## Overview
-Vanessa Richter is a communication researcher at the University of Bremen studying how AI imaginaries are negotiated by stakeholders across national and institutional contexts. Her comparative work on AI futures discourse in the US, China, and Germany examines how sectoral actors co-construct and contest visions of AI-enabled futures through stakeholder interviews and discourse analysis.
+## Connections
+- [[AI Industry Expectations and Underperforming Imaginaries (Stanusch et al., 2024)]] - `` [EXTRACTED]
+- [[Negotiating AI(s) Futures (Richter et al., 2025)]] - `` [EXTRACTED]
 
-## Papers in This Corpus
-- [[AI Industry Expectations and Underperforming Imaginaries (Stanusch et al., 2024)]]
-- [[Negotiating AI(s) Futures (Richter et al., 2025)]]
-
-## Research Area
-- [[Sociotechnical Imaginaries]]
+#graphify/document #graphify/EXTRACTED #community/AI_Industry_Expectations_and_Underperforming_Imaginaries_(Stanusch_et_al.,_2024)

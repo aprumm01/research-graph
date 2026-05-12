@@ -1,18 +1,13 @@
 ---
 source_file: ""
-type: method
-community: "Survey / Questionnaire Study"
+type: ""
+community: "AI in Design Education"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
 ---
 
 # Phenomenography
 
-## Overview
-Phenomenography is a qualitative research methodology, developed by Marton, that studies the qualitatively distinct ways in which different people experience, conceptualize, or understand a phenomenon. Results are expressed as an 'outcome space' of categories of description, often revealing hierarchical relationships.
-
-## Key Thinkers
-- Ference Marton
-- Roger Säljö
-
-## Papers in This Corpus
-- [[Reflecting on the Integration of Generative AI in Design Education (Voces y Silencios, 2024)]]
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

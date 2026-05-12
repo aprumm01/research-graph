@@ -1,17 +1,16 @@
 ---
-source_file: ""
-type: author
-community: "AI in Design Education"
+source_file: "research_docs/AU455.pdf"
+type: ""
+community: "Community None"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_None
 ---
 
 # Schauer
 
-## Overview
-Sophie Schauer is a researcher at HTW University of Applied Sciences Berlin studying AI literacy and student attitudes toward generative AI in design education. Her work uses mixed-methods surveys to assess how design students across communication and architectural design disciplines perceive AI tools, identifying competency gaps and curricular implications.
+## Connections
+- [[AI Literacy and Attitudes Towards AI in Design Education (Schauer et al., 2024)]] - `` [EXTRACTED]
 
-## Papers in This Corpus
-- [[AI Literacy and Attitudes Towards AI in Design Education (Schauer et al., 2024)]]
-
-## Research Area
-- [[AI in Design Education]]
+#graphify/document #graphify/EXTRACTED #community/Community_None

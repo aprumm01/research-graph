@@ -1,17 +1,16 @@
 ---
-source_file: ""
-type: author
-community: "GenAI in UX and Design Practice"
+source_file: "research_docs/AU465.pdf"
+type: ""
+community: "Community None"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_None
 ---
 
 # Tsao
 
-## Overview
-Jack Tsao is a researcher examining how generative AI is perceived and integrated across creative professions, including design, visual art, writing, and performance. His scoping review work synthesizes cross-domain patterns of GenAI adoption and professional attitude formation, contributing to a conceptual model for understanding creativity and authorship in the age of generative systems.
+## Connections
+- [[Perceptions and Integration of Generative AI in Creative Practices and Industries (Tsao et al., 2025)]] - `` [EXTRACTED]
 
-## Papers in This Corpus
-- [[Perceptions and Integration of Generative AI in Creative Practices and Industries (Tsao et al., 2025)]]
-
-## Research Area
-- [[GenAI in UX and Design Practice]]
+#graphify/document #graphify/EXTRACTED #community/Community_None

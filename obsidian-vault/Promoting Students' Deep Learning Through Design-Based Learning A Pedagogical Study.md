@@ -1,13 +1,16 @@
 ---
-
 source_file: "research_docs/P169.pdf"
-type: paper
+type: ""
 community: "AI in Design Education"
 tags:
-year: "2024"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
 ---
 
 # Promoting Students' Deep Learning Through Design-Based Learning: A Pedagogical Study
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

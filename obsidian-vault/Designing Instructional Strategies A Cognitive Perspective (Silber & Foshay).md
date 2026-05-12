@@ -1,12 +1,11 @@
 ---
-
 source_file: "research_docs/P259.pdf"
-type: paper
-community: "AI in Design Education"
+type: ""
+community: "Instructional Design Theory"
 tags:
-  - book-chapter
-venue: "Handbook Chapter"
-year: "2010"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Instructional_Design_Theory
 ---
 
 # Designing Instructional Strategies: A Cognitive Perspective (Silber & Foshay)
@@ -15,3 +14,5 @@ year: "2010"
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

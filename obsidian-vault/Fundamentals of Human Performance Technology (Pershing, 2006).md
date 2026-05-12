@@ -1,12 +1,11 @@
 ---
-
 source_file: "research_docs/P182.pdf"
-type: paper
-community: "Instructional Design Theory"
+type: ""
+community: "Human Performance Technology"
 tags:
-  - ISPI
-venue: "ISPI Handbook"
-year: "2006"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Human_Performance_Technology
 ---
 
 # Fundamentals of Human Performance Technology (Pershing, 2006)
@@ -15,3 +14,5 @@ year: "2006"
 - [[Human Performance Technology]] - `` [EXTRACTED]
 - [[Human Performance Technology_1]] - `` [EXTRACTED]
 - [[Pershing]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology

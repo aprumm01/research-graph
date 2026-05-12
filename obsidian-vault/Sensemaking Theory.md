@@ -1,15 +1,13 @@
 ---
 source_file: ""
-type: framework
-community: "Studio Pedagogy"
+type: ""
+community: "Workplace Learning and AI"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Workplace_Learning_and_AI
 ---
 
 # Sensemaking Theory
 
-## Overview
-Weick's sensemaking theory explains how organizational actors retrospectively construct plausible accounts of ambiguous situations to guide action. Key properties include identity construction, social process, enactment, retrospection, and plausibility over accuracy.
-
-## Key Thinkers
-- Karl Weick
-- Dennis Gioia
+#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI

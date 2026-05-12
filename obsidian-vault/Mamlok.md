@@ -1,17 +1,16 @@
 ---
-source_file: ""
-type: author
-community: "AI and Future of Work"
+source_file: "research_docs/AU462.pdf"
+type: ""
+community: "Community None"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Community_None
 ---
 
 # Mamlok
 
-## Overview
-Dan Mamlok is a philosopher of education and technology whose work examines how sociotechnical imaginaries operate in educational contexts, drawing on Jasanoff and Hasse to theorize how visions of AI's educational benefits condition institutional responses before any specific technology is adopted. His proposal of 'Socratic ignorance' as an epistemic posture toward AI in education advocates for deliberate uncertainty over uncritical optimism.
+## Connections
+- [[Landscapes of Sociotechnical Imaginaries in Education (Mamlok, 2024)]] - `` [EXTRACTED]
 
-## Papers in This Corpus
-- [[Landscapes of Sociotechnical Imaginaries in Education (Mamlok, 2024)]]
-
-## Research Area
-- [[Sociotechnical Imaginaries]]
+#graphify/document #graphify/EXTRACTED #community/Community_None

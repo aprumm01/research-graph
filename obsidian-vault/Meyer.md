@@ -1,17 +1,16 @@
 ---
-source_file: ""
-type: author
-community: "AI in Design Education"
+source_file: "research_docs/AU456.pdf"
+type: ""
+community: "Changing Design Education for the 21st Century (Meyer & Norman, 2020)"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Changing_Design_Education_for_the_21st_Century_(Meyer_&_Norman,_2020)
 ---
 
 # Meyer
 
-## Overview
-Michael W. Meyer is a design researcher and educator whose collaborative work with Don Norman on DesignX has been influential in calling for a fundamental restructuring of design education toward complex, societal-scale challenges. His research critiques the tacit-knowledge model of design training and advocates for explicit systems thinking and interdisciplinary collaboration in design curricula.
+## Connections
+- [[Changing Design Education for the 21st Century (Meyer & Norman, 2020)]] - `` [EXTRACTED]
 
-## Papers in This Corpus
-- [[Changing Design Education for the 21st Century (Meyer & Norman, 2020)]]
-
-## Research Area
-- [[AI in Design Education]]
+#graphify/document #graphify/EXTRACTED #community/Changing_Design_Education_for_the_21st_Century_(Meyer_&_Norman,_2020)

@@ -1,10 +1,11 @@
 ---
-
 source_file: "research_docs/P231.pdf"
-type: paper
+type: ""
 community: "AI in Design Education"
 tags:
-year: "2025"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
 ---
 
 # Comparing Student Designers' Metacognition and Design Processes With and Without Generative AI (Chen et al., 2025)
@@ -14,3 +15,5 @@ year: "2025"
 - [[Chen]] - `` [EXTRACTED]
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

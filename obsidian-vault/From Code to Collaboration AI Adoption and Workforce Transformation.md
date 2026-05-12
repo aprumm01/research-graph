@@ -1,10 +1,11 @@
 ---
-
 source_file: "research_docs/P99.pdf"
-type: paper
-community: "Instructional Design Theory"
+type: ""
+community: "Human Performance Technology"
 tags:
-year: "2025"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Human_Performance_Technology
 ---
 
 # From Code to Collaboration: AI Adoption and Workforce Transformation
@@ -12,3 +13,5 @@ year: "2025"
 ## Connections
 - [[Human Performance Technology]] - `` [EXTRACTED]
 - [[Human Performance Technology_1]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology

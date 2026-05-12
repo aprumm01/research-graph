@@ -1,17 +1,16 @@
 ---
-source_file: ""
-type: author
-community: "AI and Future of Work"
+source_file: "research_docs/AU458.pdf"
+type: ""
+community: "AI Industry Expectations and Underperforming Imaginaries (Stanusch et al., 2024)"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_Industry_Expectations_and_Underperforming_Imaginaries_(Stanusch_et_al.,_2024)
 ---
 
 # Mager
 
-## Overview
-Astrid Mager is a senior researcher at the Austrian Academy of Sciences (OAW) specializing in the politics of search engines, algorithmic imaginaries, and the governance of digital technologies. Her work on future imaginaries in digital technology examines how visions of technological futures are not merely predictive but constitutive — shaping development, policy, and market behavior before technologies exist.
+## Connections
+- [[Future Imaginaries in the Making and Governing of Digital Technology (Mager & Katzenbach, 2021)]] - `` [EXTRACTED]
 
-## Papers in This Corpus
-- [[Future Imaginaries in the Making and Governing of Digital Technology (Mager & Katzenbach, 2021)]]
-
-## Research Area
-- [[Sociotechnical Imaginaries]]
+#graphify/document #graphify/EXTRACTED #community/AI_Industry_Expectations_and_Underperforming_Imaginaries_(Stanusch_et_al.,_2024)

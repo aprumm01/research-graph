@@ -1,17 +1,16 @@
 ---
-source_file: ""
-type: author
-community: "AI and Future of Work"
+source_file: "research_docs/AU451.pdf"
+type: ""
+community: "AI Industry Expectations and Underperforming Imaginaries (Stanusch et al., 2024)"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_Industry_Expectations_and_Underperforming_Imaginaries_(Stanusch_et_al.,_2024)
 ---
 
 # Stanusch
 
-## Overview
-Natalia Stanusch is a researcher at the University of Amsterdam whose work examines AI industry discourse and underperforming imaginaries — narratives about AI that reshape institutional practice even when technical predictions fail to materialize. Her collaborative research bridges internet studies, platform studies, and Science and Technology Studies.
+## Connections
+- [[AI Industry Expectations and Underperforming Imaginaries (Stanusch et al., 2024)]] - `` [EXTRACTED]
 
-## Papers in This Corpus
-- [[AI Industry Expectations and Underperforming Imaginaries (Stanusch et al., 2024)]]
-
-## Research Area
-- [[Sociotechnical Imaginaries]]
+#graphify/document #graphify/EXTRACTED #community/AI_Industry_Expectations_and_Underperforming_Imaginaries_(Stanusch_et_al.,_2024)

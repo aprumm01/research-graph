@@ -1,8 +1,13 @@
 ---
-source_file: "research_docs/AU345.pdf"
-type: author
-community: "Metacognitive Support"
+source_file: "research_docs/AU393.pdf"
+type: ""
+community: "AI Literacy"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_Literacy
 ---
 
 # Barrows
+
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy

@@ -10,3 +10,5 @@
 !concept_list.txt
 !notes-index.json
 !build_notes_index.py
+!paper-snippets.json
+!build_paper_snippets.py

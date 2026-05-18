@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P478.pdf"
 type: ""
-community: "AI Literacy"
+community: "Responsible AI and Ethics"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Literacy
+  - community/Responsible_AI_and_Ethics
 ---
 
 # ASCILITE 2024
@@ -15,4 +15,4 @@ tags:
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics

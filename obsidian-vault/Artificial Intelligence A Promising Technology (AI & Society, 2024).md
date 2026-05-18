@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P305.pdf"
 type: ""
-community: "Semi-Structured Interviews"
+community: "Workplace Learning and AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
+  - community/Workplace_Learning_and_AI
 ---
 
 # Artificial Intelligence: A Promising Technology (AI & Society, 2024)
@@ -15,4 +15,4 @@ tags:
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Sociotechnical Systems Theory]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews
+#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI

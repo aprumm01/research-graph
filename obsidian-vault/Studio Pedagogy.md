@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: ""
-community: "Studio Pedagogy"
+community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Studio_Pedagogy
+  - community/Instructional_Design_Theory
 ---
 
 # Studio Pedagogy
@@ -14,4 +14,4 @@ tags:
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

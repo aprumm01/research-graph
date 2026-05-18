@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P307.pdf"
 type: ""
-community: "Quantitative / Statistical Analysis"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Quantitative_/_Statistical_Analysis
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # Full Terms & Conditions of access and use can be found at http://www.tandfonl...
@@ -16,4 +16,4 @@ tags:
 - [[Design Cognition]] - `` [EXTRACTED]
 - [[Reflective Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

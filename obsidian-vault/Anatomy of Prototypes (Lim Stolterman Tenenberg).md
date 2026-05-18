@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P28.pdf"
 type: ""
-community: "AI in Design Education"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # Anatomy of Prototypes (Lim Stolterman Tenenberg)
@@ -17,4 +17,4 @@ tags:
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Design Thinking]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

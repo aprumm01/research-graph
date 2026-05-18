@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P175.pdf"
 type: ""
-community: "Workplace Learning and AI"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # Method in their madness: Explaining how
@@ -17,4 +17,4 @@ tags:
 - [[Reflective Practice]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

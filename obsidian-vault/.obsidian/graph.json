@@ -1,28 +1,28 @@
 {
   "colorGroups": [
     {
-      "query": "tag:#community/AI_and_Future_of_Work",
+      "query": "tag:#community/GenAI_in_UX_and_Design_Practice",
       "color": {
         "a": 1,
         "rgb": 5142951
       }
     },
     {
-      "query": "tag:#community/GenAI_in_UX_and_Design_Practice",
+      "query": "tag:#community/AI_in_Design_Education",
       "color": {
         "a": 1,
         "rgb": 15896107
       }
     },
     {
-      "query": "tag:#community/AI_in_Design_Education",
+      "query": "tag:#community/Instructional_Design_Theory",
       "color": {
         "a": 1,
         "rgb": 14767961
       }
     },
     {
-      "query": "tag:#community/Instructional_Design_Theory",
+      "query": "tag:#community/AI_and_Future_of_Work",
       "color": {
         "a": 1,
         "rgb": 7780274
@@ -36,14 +36,14 @@
       }
     },
     {
-      "query": "tag:#community/Workplace_Learning_and_AI",
+      "query": "tag:#community/Responsible_AI_and_Ethics",
       "color": {
         "a": 1,
         "rgb": 15583560
       }
     },
     {
-      "query": "tag:#community/Semi-Structured_Interviews",
+      "query": "tag:#community/Conceptual_/_Theoretical_Analysis",
       "color": {
         "a": 1,
         "rgb": 11565729
@@ -57,45 +57,38 @@
       }
     },
     {
-      "query": "tag:#community/AI_Literacy",
+      "query": "tag:#community/Workplace_Learning_and_AI",
       "color": {
         "a": 1,
         "rgb": 10253663
       }
     },
     {
-      "query": "tag:#community/Studio_Pedagogy",
+      "query": "tag:#community/Problem-Based_Learning",
       "color": {
         "a": 1,
         "rgb": 12234924
       }
     },
     {
-      "query": "tag:#community/Generative_UI_Tools",
+      "query": "tag:#community/AI_Industry_Expectations_and_Underperforming_Imaginaries_(Stanusch_et_al.,_2024)",
       "color": {
         "a": 1,
         "rgb": 5142951
       }
     },
     {
-      "query": "tag:#community/AI_Industry_Expectations_and_Underperforming_Imaginaries_(Stanusch_et_al.,_2024)",
+      "query": "tag:#community/Hautala",
       "color": {
         "a": 1,
         "rgb": 15896107
       }
     },
     {
-      "query": "tag:#community/Hautala",
-      "color": {
-        "a": 1,
-        "rgb": 14767961
-      }
-    },
-    {
       "query": "tag:#community/Changing_Design_Education_for_the_21st_Century_(Meyer_&_Norman,_2020)",
       "color": {
         "a": 1,
-        "rgb": 7780274
+        "rgb": 14767961
       }
     }
   ]

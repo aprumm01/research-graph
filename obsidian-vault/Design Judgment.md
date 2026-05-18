@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: ""
-community: "AI in Design Education"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # Design Judgment
@@ -14,4 +14,4 @@ tags:
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

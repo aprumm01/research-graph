@@ -1,13 +1,13 @@
 ---
 source_file: "research_docs/AU433.pdf"
 type: ""
-community: "Studio Pedagogy"
+community: "Quantitative / Statistical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Studio_Pedagogy
+  - community/Quantitative_/_Statistical_Analysis
 ---
 
 # Ramaul
 
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis

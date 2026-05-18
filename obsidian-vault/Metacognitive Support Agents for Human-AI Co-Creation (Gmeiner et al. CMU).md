@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P5.pdf"
 type: ""
-community: "Workplace Learning and AI"
+community: "Responsible AI and Ethics"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/Responsible_AI_and_Ethics
 ---
 
 # Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)
@@ -18,4 +18,4 @@ tags:
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 - [[Wizard-of-Oz Study]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics

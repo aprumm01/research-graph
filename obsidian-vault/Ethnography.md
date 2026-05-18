@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: ""
-community: "Workplace Learning and AI"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # Ethnography
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

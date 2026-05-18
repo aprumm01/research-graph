@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P9.pdf"
 type: ""
-community: "Quantitative / Statistical Analysis"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Quantitative_/_Statistical_Analysis
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # Thinking through Prompting: Cognitive Mediation (Dalsgaard)
@@ -19,4 +19,4 @@ tags:
 - [[Prompt Engineering]] - `` [EXTRACTED]
 - [[Reflective Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P90.pdf"
 type: ""
-community: "Studio Pedagogy"
+community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Studio_Pedagogy
+  - community/Instructional_Design_Theory
 ---
 
 # AI in Test Automation: Overcoming Challenges, Embracing Imperatives
@@ -14,4 +14,4 @@ tags:
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

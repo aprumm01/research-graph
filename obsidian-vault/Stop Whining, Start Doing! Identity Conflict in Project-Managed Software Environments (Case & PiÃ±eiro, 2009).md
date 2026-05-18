@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P145.pdf"
 type: ""
-community: "AI in Design Education"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # Stop Whining, Start Doing! Identity Conflict in Project-Managed Software Environments (Case & PiÃ±eiro, 2009)
@@ -17,4 +17,4 @@ tags:
 - [[Piñeiro]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

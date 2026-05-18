@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P473.pdf"
 type: ""
-community: "Instructional Design Theory"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - community/AI_in_Design_Education
 ---
 
 # IEEE Technology and Society Magazine
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

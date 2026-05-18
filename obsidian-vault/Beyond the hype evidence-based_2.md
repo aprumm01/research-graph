@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P379.pdf"
 type: ""
-community: "Studio Pedagogy"
+community: "Workplace Learning and AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Studio_Pedagogy
+  - community/Workplace_Learning_and_AI
 ---
 
 # Beyond the hype: evidence-based
@@ -15,4 +15,4 @@ tags:
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI

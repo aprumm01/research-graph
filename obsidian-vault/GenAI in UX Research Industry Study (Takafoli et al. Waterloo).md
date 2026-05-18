@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P15.pdf"
 type: ""
-community: "Semi-Structured Interviews"
+community: "Quantitative / Statistical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
+  - community/Quantitative_/_Statistical_Analysis
 ---
 
 # GenAI in UX Research: Industry Study (Takafoli et al. Waterloo)
@@ -16,4 +16,4 @@ tags:
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 - [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews
+#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis

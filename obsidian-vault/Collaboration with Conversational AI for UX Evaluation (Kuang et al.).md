@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P37.pdf"
 type: ""
-community: "Quantitative / Statistical Analysis"
+community: "Responsible AI and Ethics"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Quantitative_/_Statistical_Analysis
+  - community/Responsible_AI_and_Ethics
 ---
 
 # Collaboration with Conversational AI for UX Evaluation (Kuang et al.)
@@ -16,4 +16,4 @@ tags:
 - [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 - [[Wizard-of-Oz Study]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics

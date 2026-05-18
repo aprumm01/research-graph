@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P93.pdf"
 type: ""
-community: "Studio Pedagogy"
+community: "Quantitative / Statistical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Studio_Pedagogy
+  - community/Quantitative_/_Statistical_Analysis
 ---
 
 # Ethical Dimensions of AI in Graphic Design
@@ -15,4 +15,4 @@ tags:
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 - [[Systematic Literature Review]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis

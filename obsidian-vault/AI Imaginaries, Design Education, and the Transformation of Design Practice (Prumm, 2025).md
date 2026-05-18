@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P366.pdf"
 type: ""
-community: "Generative UI Tools"
+community: "Problem-Based Learning"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Generative_UI_Tools
+  - community/Problem-Based_Learning
 ---
 
 # AI Imaginaries, Design Education, and the Transformation of Design Practice (Prumm, 2025)
@@ -15,4 +15,4 @@ tags:
 - [[Generative UI Tools]] - `` [EXTRACTED]
 - [[Prumm]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools
+#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

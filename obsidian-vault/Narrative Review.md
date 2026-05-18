@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: ""
-community: "AI and Future of Work"
+community: "Human Performance Technology"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Human_Performance_Technology
 ---
 
 # Narrative Review
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology

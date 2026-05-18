@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P280.pdf"
 type: ""
-community: "Generative UI Tools"
+community: "Problem-Based Learning"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Generative_UI_Tools
+  - community/Problem-Based_Learning
 ---
 
 # Integrating User Experience in User Interface
@@ -17,4 +17,4 @@ tags:
 - [[Problem-Based Learning]] - `` [EXTRACTED]
 - [[User-Centered Design]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools
+#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

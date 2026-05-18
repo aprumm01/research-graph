@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P254.pdf"
 type: ""
-community: "Instructional Design Theory"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - community/AI_in_Design_Education
 ---
 
 # Conceptions of Design Practice From Academy to Industry: Implications for HCI and Design Education
@@ -15,4 +15,4 @@ tags:
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

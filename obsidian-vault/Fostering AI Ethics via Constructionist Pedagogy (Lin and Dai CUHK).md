@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P70.pdf"
 type: ""
-community: "Quantitative / Statistical Analysis"
+community: "Responsible AI and Ethics"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Quantitative_/_Statistical_Analysis
+  - community/Responsible_AI_and_Ethics
 ---
 
 # Fostering AI Ethics via Constructionist Pedagogy (Lin and Dai CUHK)
@@ -16,4 +16,4 @@ tags:
 - [[Constructionism]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics

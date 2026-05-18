@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P300.pdf"
 type: ""
-community: "Studio Pedagogy"
+community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Studio_Pedagogy
+  - community/Instructional_Design_Theory
 ---
 
 # From Big Data to Rich Theory: Integrating Critical Discourse Analysis with St...
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

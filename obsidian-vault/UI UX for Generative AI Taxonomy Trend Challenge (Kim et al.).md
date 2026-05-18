@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P63.pdf"
 type: ""
-community: "Quantitative / Statistical Analysis"
+community: "Workplace Learning and AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Quantitative_/_Statistical_Analysis
+  - community/Workplace_Learning_and_AI
 ---
 
 # UI UX for Generative AI: Taxonomy Trend Challenge (Kim et al.)
@@ -14,4 +14,4 @@ tags:
 - [[Case Study]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis
+#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI

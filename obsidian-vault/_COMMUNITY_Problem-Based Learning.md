@@ -1,34 +1,61 @@
 ---
 type: community
-members: 15
+members: 28
 ---
 
 # Problem-Based Learning
 
-**Members:** 15 nodes
+**Members:** 28 nodes
 
 ## Members
-- [[Competences for the Modern Designer: Systematic Literature Review (2026)]]
-- [[Co-Designing with Transformers: Unpacking the Complex Role]]
-- [[Scaffolding and Achievement in Problem-Based and Inquiry Learning (Hmelo-Silver et al.)]]
-- [[Integrating User Experience in User Interface]]
-- [[Metacognitive Support]]
-- [[Method in their madness: Explaining how]]
+- [[A Formative Study to Explore the Design of Generative UI Tools]] - research_docs/P167.pdf
+- [[AI Imaginaries, Design Education, and the Transformation of Design Practice (Prumm, 2025)]] - research_docs/P366.pdf
+- [[AI Imaginaries, Design Education, and the Transformation of Design Practice L...]] - research_docs/P435.pdf
+- [[AI Imaginaries, Design Education, and the Transformation of Design Practice L..._1]] - research_docs/P506.pdf
+- [[AI Imaginaries, Design Education, and the Transformation of Design Practice L..._2]] - research_docs/P567.pdf
+- [[Barrows]] - research_docs/AU393.pdf
+- [[Enhancing Inquiry-Based Learning in Human Factors Engineering with Generative AI]] - research_docs/P264.pdf
+- [[Formative Study on GenUI Tools (Chen et al. Google DeepMind)]] - research_docs/P3.pdf
+- [[Formative Usability Study]]
+- [[Generative UI Tools]]
+- [[Integrating User Experience in User Interface]] - research_docs/P280.pdf
+- [[John Zimmerman, Carnegie Mellon University]] - research_docs/P295.pdf
 - [[Problem-Based Learning]]
-- [[Problem-Based Learning: A Constructivist Approach (Barrows, 1993)]]
-- [[Enhancing Inquiry-Based Learning in Human Factors Engineering with Generative AI]]
-- [[Teaching to Fail (Before It Happens): Premortem as a Pedagogical]]
+- [[Problem-Based Learning A Constructivist Approach (Barrows, 1993)_1]] - research_docs/P185.pdf
+- [[Problem-based Learning]] - research_docs/P286.pdf
+- [[Problem-based Learning_1]] - research_docs/P347.pdf
+- [[Problem-based Learning_2]] - research_docs/P416.pdf
+- [[Problem-based Learning_3]] - research_docs/P487.pdf
+- [[Problem-based Learning_4]] - research_docs/P548.pdf
+- [[Prumm]] - research_docs/AU449.pdf
+- [[Research through Design]]
+- [[Scaffolding and Achievement in Problem-Based and Inquiry Learning (Hmelo-Silver et al.)]] - research_docs/P119.pdf
+- [[Scaffolding and Achievement in Problem-Based and Inquiry Learning (Hmelo-Silver et al.)_1]] - research_docs/P192.pdf
+- [[SpringerBriefs in Applied Sciences and Technology]] - research_docs/P293.pdf
+- [[The GenUI Study (Chen Knearem Li)]] - research_docs/P4.pdf
+- [[The GenUI Study Exploring the Design of Generative UI Tools to]] - research_docs/P200.pdf
+- [[User-Centered Design]]
+- [[When The Design Process Is Dead Is a Sales Pitch (Prumm, 2026)]] - research_docs/P392.pdf
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Problem-Based_Learning
+SORT file.name ASC
+```
 
 ## Connections to other communities
-- 6 edges to [[communities/AI in Design Education|AI in Design Education]]
-- 4 edges to [[communities/Instructional Design Theory|Instructional Design Theory]]
-- 4 edges to [[communities/HCI Education and Pedagogy|HCI Education and Pedagogy]]
-- 3 edges to [[communities/GenAI in UX and Design Practice|GenAI in UX and Design Practice]]
-- 1 edge to [[communities/Responsible AI and Ethics|Responsible AI and Ethics]]
+- 9 edges to [[_COMMUNITY_AI in Design Education]]
+- 7 edges to [[_COMMUNITY_GenAI in UX and Design Practice]]
+- 4 edges to [[_COMMUNITY_Quantitative  Statistical Analysis]]
+- 3 edges to [[_COMMUNITY_Instructional Design Theory]]
+- 3 edges to [[_COMMUNITY_Responsible AI and Ethics]]
+- 2 edges to [[_COMMUNITY_Workplace Learning and AI]]
+- 1 edge to [[_COMMUNITY_AI and Future of Work]]
 
 ## Top bridge nodes
-- [[Method in their madness: Explaining how]] - degree 3, connects to 2 communities
-- [[Teaching to Fail (Before It Happens): Premortem as a Pedagogical]] - degree 3, connects to 2 communities
-- [[Co-Designing with Transformers: Unpacking the Complex Role]] - degree 3, connects to 2 communities
-- [[Enhancing Inquiry-Based Learning in Human Factors Engineering with Generative AI]] - degree 3, connects to 2 communities
-- [[Integrating User Experience in User Interface]] - degree 3, connects to 2 communities
+- [[John Zimmerman, Carnegie Mellon University]] - degree 5, connects to 3 communities
+- [[Integrating User Experience in User Interface]] - degree 5, connects to 2 communities
+- [[Formative Study on GenUI Tools (Chen et al. Google DeepMind)]] - degree 5, connects to 2 communities
+- [[A Formative Study to Explore the Design of Generative UI Tools]] - degree 4, connects to 2 communities
+- [[The GenUI Study Exploring the Design of Generative UI Tools to]] - degree 4, connects to 2 communities

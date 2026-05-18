@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P59.pdf"
 type: ""
-community: "AI in Design Education"
+community: "Responsible AI and Ethics"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Responsible_AI_and_Ethics
 ---
 
 # Teaching to Fail: Premortem in HCI Education (Parsons and Toombs)
@@ -17,4 +17,4 @@ tags:
 - [[Posthumanism]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics

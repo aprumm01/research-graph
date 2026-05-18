@@ -1,13 +1,13 @@
 ---
 source_file: "research_docs/AU416.pdf"
 type: ""
-community: "AI and Future of Work"
+community: "Quantitative / Statistical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Quantitative_/_Statistical_Analysis
 ---
 
 # Kristal
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis

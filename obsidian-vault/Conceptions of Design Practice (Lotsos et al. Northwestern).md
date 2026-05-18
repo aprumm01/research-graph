@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P25.pdf"
 type: ""
-community: "AI in Design Education"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # Conceptions of Design Practice (Lotsos et al. Northwestern)
@@ -16,4 +16,4 @@ tags:
 - [[Phenomenography]] - `` [EXTRACTED]
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P6.pdf"
 type: ""
-community: "Semi-Structured Interviews"
+community: "Quantitative / Statistical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
+  - community/Quantitative_/_Statistical_Analysis
 ---
 
 # UX Design Professionals Perceptions of GenAI (Li et al. CHI 2024)
@@ -17,4 +17,4 @@ tags:
 - [[Technology Acceptance Model]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews
+#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis

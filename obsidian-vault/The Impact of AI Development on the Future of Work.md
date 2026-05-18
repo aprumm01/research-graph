@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P129.pdf"
 type: ""
-community: "AI and Future of Work"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # The Impact of AI Development on the Future of Work
@@ -14,4 +14,4 @@ tags:
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

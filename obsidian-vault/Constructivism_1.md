@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: ""
-community: "AI in Design Education"
+community: "Quantitative / Statistical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Quantitative_/_Statistical_Analysis
 ---
 
 # Constructivism
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis

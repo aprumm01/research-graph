@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P412.pdf"
 type: ""
-community: "AI Literacy"
+community: "Responsible AI and Ethics"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Literacy
+  - community/Responsible_AI_and_Ethics
 ---
 
 # Fostering Epistemic Insights into AI Ethics through a Constructionist Pedagogy:
@@ -15,4 +15,4 @@ tags:
 - [[Metacognitive Support]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics

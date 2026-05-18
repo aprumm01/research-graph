@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P116.pdf"
 type: ""
-community: "AI and Future of Work"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # Profound Learning for Human Flourishing
@@ -14,4 +14,4 @@ tags:
 - [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

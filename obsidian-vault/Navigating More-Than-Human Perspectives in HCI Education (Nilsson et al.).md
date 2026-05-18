@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P58.pdf"
 type: ""
-community: "AI in Design Education"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # Navigating More-Than-Human Perspectives in HCI Education (Nilsson et al.)
@@ -16,4 +16,4 @@ tags:
 - [[Posthumanism]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

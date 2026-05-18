@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P7.pdf"
 type: ""
-community: "Workplace Learning and AI"
+community: "Quantitative / Statistical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/Quantitative_/_Statistical_Analysis
 ---
 
 # De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)
@@ -20,4 +20,4 @@ tags:
 - [[Ironies of Automation]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis

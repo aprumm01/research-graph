@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P185.pdf"
 type: ""
-community: "AI Literacy"
+community: "Problem-Based Learning"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Literacy
+  - community/Problem-Based_Learning
 ---
 
 # Problem-Based Learning: A Constructivist Approach (Barrows, 1993)
@@ -14,4 +14,4 @@ tags:
 - [[Barrows]] - `` [EXTRACTED]
 - [[Problem-Based Learning]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

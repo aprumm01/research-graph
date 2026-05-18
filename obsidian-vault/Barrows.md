@@ -1,13 +1,13 @@
 ---
 source_file: "research_docs/AU393.pdf"
 type: ""
-community: "AI Literacy"
+community: "Problem-Based Learning"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Literacy
+  - community/Problem-Based_Learning
 ---
 
 # Barrows
 
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

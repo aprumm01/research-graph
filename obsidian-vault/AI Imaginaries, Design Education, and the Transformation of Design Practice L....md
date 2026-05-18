@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P435.pdf"
 type: ""
-community: "Generative UI Tools"
+community: "Problem-Based Learning"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Generative_UI_Tools
+  - community/Problem-Based_Learning
 ---
 
 # AI Imaginaries, Design Education, and the Transformation of Design Practice L...
@@ -14,4 +14,4 @@ tags:
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Generative UI Tools]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools
+#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

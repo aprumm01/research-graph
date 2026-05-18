@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: ""
-community: "Generative UI Tools"
+community: "Problem-Based Learning"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Generative_UI_Tools
+  - community/Problem-Based_Learning
 ---
 
 # User-Centered Design
 
-#graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools
+#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

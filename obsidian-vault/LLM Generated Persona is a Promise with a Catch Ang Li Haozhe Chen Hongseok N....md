@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P454.pdf"
 type: ""
-community: "AI and Future of Work"
+community: "Responsible AI and Ethics"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Responsible_AI_and_Ethics
 ---
 
 # LLM Generated Persona is a Promise with a Catch Ang Li Haozhe Chen Hongseok N...
@@ -15,4 +15,4 @@ tags:
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P8.pdf"
 type: ""
-community: "GenAI in UX and Design Practice"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # Creative Ambiguity and Cognitive Tension in GenAI Tools (Dalsgaard)
@@ -16,4 +16,4 @@ tags:
 - [[Design Cognition]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

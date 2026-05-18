@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P132.pdf"
 type: ""
-community: "AI in Design Education"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # Design Research Society Research Perspectives (Durrant et al.)
@@ -18,4 +18,4 @@ tags:
 - [[Posthumanism]] - `` [EXTRACTED]
 - [[Science and Technology Studies (STS)]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

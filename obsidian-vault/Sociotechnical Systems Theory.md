@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: ""
-community: "Semi-Structured Interviews"
+community: "Workplace Learning and AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
+  - community/Workplace_Learning_and_AI
 ---
 
 # Sociotechnical Systems Theory
 
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews
+#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI

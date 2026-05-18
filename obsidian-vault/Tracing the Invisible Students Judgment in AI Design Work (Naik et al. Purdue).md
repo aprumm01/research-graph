@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P24.pdf"
 type: ""
-community: "AI in Design Education"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # Tracing the Invisible: Students Judgment in AI Design Work (Naik et al. Purdue)
@@ -17,4 +17,4 @@ tags:
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Protocol Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

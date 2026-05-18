@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P470.pdf"
 type: ""
-community: "Instructional Design Theory"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - community/AI_in_Design_Education
 ---
 
 # The Future of Work: Balancing Automation and Human
@@ -14,4 +14,4 @@ tags:
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

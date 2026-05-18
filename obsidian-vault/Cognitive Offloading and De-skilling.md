@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: ""
-community: "Workplace Learning and AI"
+community: "Quantitative / Statistical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/Quantitative_/_Statistical_Analysis
 ---
 
 # Cognitive Offloading and De-skilling
@@ -14,4 +14,4 @@ tags:
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis

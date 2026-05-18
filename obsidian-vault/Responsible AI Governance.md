@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: ""
-community: "Instructional Design Theory"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - community/AI_in_Design_Education
 ---
 
 # Responsible AI Governance
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

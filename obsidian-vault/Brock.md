@@ -1,13 +1,13 @@
 ---
 source_file: "research_docs/AU396.pdf"
 type: ""
-community: "AI and Future of Work"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # Brock
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

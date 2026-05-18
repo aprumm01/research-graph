@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P227.pdf"
 type: ""
-community: "AI and Future of Work"
+community: "Responsible AI and Ethics"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Responsible_AI_and_Ethics
 ---
 
 # "It's Like the Value System in the Loop": Domain Experts' Values Expectations for NLP Automation (Showkat & Baumer)
@@ -16,4 +16,4 @@ tags:
 - [[Participatory Design Theory]] - `` [EXTRACTED]
 - [[Value-Sensitive Design (VSD)]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics

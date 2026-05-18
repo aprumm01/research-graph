@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P3.pdf"
 type: ""
-community: "Generative UI Tools"
+community: "Problem-Based Learning"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Generative_UI_Tools
+  - community/Problem-Based_Learning
 ---
 
 # Formative Study on GenUI Tools (Chen et al. Google DeepMind)
@@ -17,4 +17,4 @@ tags:
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[The GenUI Study (Chen Knearem Li)]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools
+#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

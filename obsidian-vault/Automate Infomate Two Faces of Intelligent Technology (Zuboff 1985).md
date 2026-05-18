@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P30.pdf"
 type: ""
-community: "Workplace Learning and AI"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/AI_and_Future_of_Work
 ---
 
 # Automate Infomate: Two Faces of Intelligent Technology (Zuboff 1985)
@@ -21,4 +21,4 @@ tags:
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 - [[Zuboff]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

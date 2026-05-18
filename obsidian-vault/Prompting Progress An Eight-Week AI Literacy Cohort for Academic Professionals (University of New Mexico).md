@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P186.pdf"
 type: ""
-community: "GenAI in UX and Design Practice"
+community: "Responsible AI and Ethics"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Responsible_AI_and_Ethics
 ---
 
 # Prompting Progress: An Eight-Week AI Literacy Cohort for Academic Professionals (University of New Mexico)
@@ -16,4 +16,4 @@ tags:
 - [[Prompt Engineering]] - `` [EXTRACTED]
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics

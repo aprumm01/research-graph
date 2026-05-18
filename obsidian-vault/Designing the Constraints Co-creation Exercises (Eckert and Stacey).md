@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P64.pdf"
 type: ""
-community: "AI and Future of Work"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # Designing the Constraints: Co-creation Exercises (Eckert and Stacey)
@@ -17,4 +17,4 @@ tags:
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Participatory Design Sessions]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

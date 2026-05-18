@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P178.pdf"
 type: ""
-community: "Semi-Structured Interviews"
+community: "Quantitative / Statistical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
+  - community/Quantitative_/_Statistical_Analysis
 ---
 
 # Optimizing Employee Roles in the Era of Generative AI
@@ -15,4 +15,4 @@ tags:
 - [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews
+#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis

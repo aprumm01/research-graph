@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P32.pdf"
 type: ""
-community: "Semi-Structured Interviews"
+community: "Workplace Learning and AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
+  - community/Workplace_Learning_and_AI
 ---
 
 # AI Impact on Diversity and Job Displacement in ICT (Brown dissertation)
@@ -16,4 +16,4 @@ tags:
 - [[Sociotechnical Systems Theory]] - `` [EXTRACTED]
 - [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews
+#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI

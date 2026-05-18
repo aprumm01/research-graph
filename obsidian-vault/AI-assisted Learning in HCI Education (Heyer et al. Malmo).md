@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P57.pdf"
 type: ""
-community: "Quantitative / Statistical Analysis"
+community: "Responsible AI and Ethics"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Quantitative_/_Statistical_Analysis
+  - community/Responsible_AI_and_Ethics
 ---
 
 # AI-assisted Learning in HCI Education (Heyer et al. Malmo)
@@ -18,4 +18,4 @@ tags:
 - [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics

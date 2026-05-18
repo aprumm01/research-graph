@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P11.pdf"
 type: ""
-community: "Semi-Structured Interviews"
+community: "Quantitative / Statistical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
+  - community/Quantitative_/_Statistical_Analysis
 ---
 
 # Clay to Play With Generative AI Tools in UX and Industrial Design Practice (Uusitalo et al., DIS 2024)
@@ -16,4 +16,4 @@ tags:
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews
+#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis

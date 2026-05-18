@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P203.pdf"
 type: ""
-community: "AI and Future of Work"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # The Proper Way to Become an Instructional
@@ -16,4 +16,4 @@ tags:
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

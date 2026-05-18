@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P78.pdf"
 type: ""
-community: "AI and Future of Work"
+community: "Responsible AI and Ethics"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Responsible_AI_and_Ethics
 ---
 
 # Employment Shopping: An AI-Driven Universal Job Allocation Model for Inclusive
@@ -17,4 +17,4 @@ tags:
 - [[Human Performance Technology_1]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics

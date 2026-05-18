@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: ""
-community: "Quantitative / Statistical Analysis"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Quantitative_/_Statistical_Analysis
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # Reflective Practice
 
-#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

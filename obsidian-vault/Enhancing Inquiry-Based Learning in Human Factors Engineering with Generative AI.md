@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P264.pdf"
 type: ""
-community: "AI Literacy"
+community: "Problem-Based Learning"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Literacy
+  - community/Problem-Based_Learning
 ---
 
 # Enhancing Inquiry-Based Learning in Human Factors Engineering with Generative AI
@@ -15,4 +15,4 @@ tags:
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Problem-Based Learning]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

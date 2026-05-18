@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P87.pdf"
 type: ""
-community: "Studio Pedagogy"
+community: "Conceptual / Theoretical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Studio_Pedagogy
+  - community/Conceptual_/_Theoretical_Analysis
 ---
 
 # Instructional Design and Creativity: A Response to the Critics
@@ -15,4 +15,4 @@ tags:
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Conceptual_/_Theoretical_Analysis

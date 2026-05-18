@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: ""
-community: "Quantitative / Statistical Analysis"
+community: "Workplace Learning and AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Quantitative_/_Statistical_Analysis
+  - community/Workplace_Learning_and_AI
 ---
 
 # Case Study
 
-#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis
+#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI

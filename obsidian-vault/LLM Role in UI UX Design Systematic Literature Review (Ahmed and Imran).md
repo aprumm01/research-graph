@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P62.pdf"
 type: ""
-community: "Studio Pedagogy"
+community: "Quantitative / Statistical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Studio_Pedagogy
+  - community/Quantitative_/_Statistical_Analysis
 ---
 
 # LLM Role in UI UX Design: Systematic Literature Review (Ahmed and Imran)
@@ -14,4 +14,4 @@ tags:
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Systematic Literature Review]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis

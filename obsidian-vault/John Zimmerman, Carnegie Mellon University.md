@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P295.pdf"
 type: ""
-community: "Quantitative / Statistical Analysis"
+community: "Problem-Based Learning"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Quantitative_/_Statistical_Analysis
+  - community/Problem-Based_Learning
 ---
 
 # John Zimmerman, Carnegie Mellon University
@@ -17,4 +17,4 @@ tags:
 - [[Research through Design]] - `` [EXTRACTED]
 - [[User-Centered Design]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis
+#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning
